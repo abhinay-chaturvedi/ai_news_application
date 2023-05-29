@@ -1,4 +1,5 @@
 # ai_news_application
+<<<<<<< HEAD
 basically i have made news application in which i have added the voice assistance feature which will do all the work for you .
 like you don't need to click on any button whatever you want to do with the application just ask the ai assistance it will do the same.
 
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+basically in this i have made news application in which i have add the voice assistance which will do all the work for you .
+>>>>>>> b088a6af43131c0ff4955a7c808297be8b3eae7f
