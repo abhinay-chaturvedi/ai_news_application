@@ -1,3 +1,7 @@
+# ai_news_application
+basically i have made news application in which i have added the voice assistance feature which will do all the work for you .
+like you don't need to click on any button whatever you want to do with the application just ask the ai assistance it will do the same.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
